@@ -1,7 +1,7 @@
 
 # Kylie Martinez's Portfolio
 
-I am a computer science major at CSUF and plan to graduate in 2028
+I am a computer science major at CSUF and plan to graduate in 2028!
 
 ## Favoroite CPSC 120L Labs
 
